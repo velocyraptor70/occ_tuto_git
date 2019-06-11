@@ -2,3 +2,4 @@
 openclassrooms tuto Gérez votre code avec Git et GitHub
 1ère modif
 ligne ajoutée depuis github
+ligne ajoutée depuis la machine locale
